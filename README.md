@@ -1,5 +1,7 @@
 # Physics Formula Sheet
 
+**▶ Try it online: [https://omri-n6gdp.github.io/formula-sheet/](https://omri-n6gdp.github.io/formula-sheet/)** (works on phones too)
+
 Searchable physics formula sheet: mechanics, relativity, waves, electromagnetism and more.
 
 ## How to use
